@@ -1,0 +1,28 @@
+{
+  "name": "2nd_preference_test",
+  "version": "1.0.0",
+  "description": "git flow test and practice for team project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/59inu/2nd_Preference_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/59inu/2nd_Preference_test/issues"
+  },
+  "homepage": "https://github.com/59inu/2nd_Preference_test#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
