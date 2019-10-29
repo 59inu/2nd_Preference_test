@@ -1,5 +1,5 @@
 # 2nd_Preference_test
-2nd-preference-'GIT FLOW' prac &amp; test 
+Team <2nd-preference> - 'GIT FLOW' prac & test 
 
 Do not try to make a mess.
 but anaway OK.
